@@ -13,8 +13,10 @@ Meu terceiro codigo desenvolvido em portugol nas aulas de programação,
 > &nbsp;&nbsp;&nbsp;&nbsp;ESCREVA  x \
 > FIM
 
+
 ## Fluxograma
-![alt text](https://github.com/databiteps/multiplicacao/blob/main/multiplicacao.drawio.png?raw=true "Title")
+![alt text](https://github.com/databiteps/valorperimetro/blob/main/VALORPERIMETRO.drawio.png?raw=true "Title")
+
 
 Exemplo do livro Lógica de Programação - Editora Viena
 
